@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This are the projects I have been working on lately:
+These are the projects I have been working on lately:
 
 ## Web Scraping with Github Actions
 1. I am scraping every film shown in Spanish public tv, namely TDT. I get data about the date, time, channel and some variables on the film shown (title, director, length, country, etc): [repository](https://github.com/GuilleDiaz7/Automatic-Web-Scraping-of-Spanish-TDT-Films).
