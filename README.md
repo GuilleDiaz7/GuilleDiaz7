@@ -8,7 +8,7 @@ These are the projects I have been working on lately:
 3. In this repository I scrape a local cinema: [repository](https://github.com/GuilleDiaz7/Automatic-Web-Scraping-of-A-Local-Cinema).
 
 ## Models in R with tidymodels
-1. 
+1. Random Forest applied to Kaggle Spaceship competition: [repository](https://github.com/GuilleDiaz7/Kaggle-Competitions/tree/main/spaceship).
 
 ## SQL
 1. I created a personal music database to learn something about the design and to have some personal data to practice with for online SQL courses: [repository](https://github.com/GuilleDiaz7/Design-and-Creation-of-a-Basic-Music-Database).
