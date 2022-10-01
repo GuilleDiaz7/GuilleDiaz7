@@ -13,7 +13,4 @@ These are the projects I have been working on lately:
 ## SQL
 1. I created a personal music database to learn something about the design of it and to have some personal data to practice with for online SQL courses: [repository](https://github.com/GuilleDiaz7/Design-and-Creation-of-a-Basic-Music-Database).
 
-<!--
-**GuilleDiaz7/GuilleDiaz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
