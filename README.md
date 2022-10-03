@@ -8,7 +8,11 @@ These are the projects I have been working on lately:
 3. In this repository I scrape a local cinema: [repository](https://github.com/GuilleDiaz7/Automatic-Web-Scraping-of-A-Local-Cinema).
 
 ## Models in R with tidymodels
-1. Random Forest applied to Kaggle Spaceship competition: [repository](https://github.com/GuilleDiaz7/Kaggle-Competitions/tree/main/spaceship).
+
+### Classification
+1. Very basic logistic regression applied to Kaggle titanic competition: [repository](https://github.com/GuilleDiaz7/Kaggle-Competitions/blob/main/titanic/logistic_regression.R).
+2. Random forest applied to Kaggle titanic competition: [repository](https://github.com/GuilleDiaz7/Kaggle-Competitions/blob/main/titanic/random_forest.R).
+3. XGBoost applied to Kaggle titanic competition with some parameter tuning: [repository](https://github.com/GuilleDiaz7/Kaggle-Competitions/blob/main/titanic/xgboost.R).
 
 ## SQL
 1. I created a personal music database to learn something about the design of it and to have some personal data to practice with for online SQL courses: [repository](https://github.com/GuilleDiaz7/Design-and-Creation-of-a-Basic-Music-Database).
